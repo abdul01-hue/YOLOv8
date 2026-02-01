@@ -101,7 +101,7 @@ This project demonstrates an end-to-end **YOLOv8 object detection pipeline**, hi
 ---
 
 ## 👤 Author
-**Abdul Mujeed**  
+**Abdul Mujeeb**  
 Computer Science Engineer | AI & Computer Vision Enthusiast  
 
 ⭐ If you find this project useful, please star the repository!
